@@ -1,0 +1,2 @@
+# TTA-Live_Project-Python
+The AppBuilder9000 Overview  This project was built using the Django framework. This project is the interactive website for managing one's collections of things related to various hobbies, as well as API and Data Scraped content for those hobbies.   Each developer contributes to the overall project by adding a new App that utilizes API's/Data Scrapping to receive content for the app of their choice. 
