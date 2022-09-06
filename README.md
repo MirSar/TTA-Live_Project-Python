@@ -1,8 +1,11 @@
 # TTA-Live_Project-Python
 ## Introduction 
-The Tech Academy's live projects are held during the final two weeks of their courses.  As part of the python course, I had the privilege of contributing to the ongoing development of the AppBuilder9000 project.  The AppBuilder9000 project is built using the Django framework. This project is the interactive website for managing one's collections of things related to various hobbies, as well as API and Data Scraped content for those hobbies.   
-Each developer contributes to the overall project by adding a new App that utilizes API's/Data Scrapping to receive, analyze, and display content of their choice.  My contribution was to add a financial analysis app I named Brother EDGAR.  The name EDGAR is adopted from the Securities and Exchange Commission (SEC) database system.  EDGAR is an acronym for Electronic Data Gathering, Analysis, and Retrieval system. 
-Below is the code summary of my project, along with code snippets and navigation links.  I have also included a copy of my full code files in this repo.
+The Tech Academy's live projects are held during the final two weeks of their courses.  As part of the python course, I contributed to the ongoing development of the AppBuilder9000 project.  The AppBuilder9000 project is built using the Django framework. This project is the interactive website for managing one's collections of things related to various hobbies, as well as API and Data Scraped content for those hobbies.
+
+Each developer contributes to the overall project by adding a new App that utilizes API's/Data Scrapping to receive, analyze, and display content of their choice.  My contribution was to add a financial analysis app I named Brother EDGAR.  The name EDGAR is adopted from the Securities and Exchange Commission (SEC) database system.  EDGAR is an acronym for Electronic Data Gathering, Analysis, and Retrieval system.
+
+Below is the code summary of my project, along with code snippets and navigation links.  I have also included a copy of my full code files in this repository.
+
 
 ## Back End Stories
 * [First BE Story](#first-be-story)
