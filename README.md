@@ -36,10 +36,9 @@ Below is the code summary of my project, along with code snippets and navigation
 
 ### Seventh BackEnd Story
 7. Parse through the JSON file returned and display the information you want to display. Make additional queries to the API as necessary. Add a link from your app's home page.
-  a. Optional Add-On:
-      -Create a way to get any input information from the user and get the specific response for that input.
-      (e.g. allow user to search specific terms through the API, getting all data for that search)
- 
+* Optional Add-On: Create a way to get any input information from the user and get the specific response for that input.(e.g. allow user to search specific terms through the API, getting all data for that search)
+
+      
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#tta-live_project-python)*
 
 ## Front End Stories
