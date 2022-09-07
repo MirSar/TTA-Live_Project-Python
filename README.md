@@ -8,12 +8,12 @@ Below is the code summary of my project, along with code snippets and navigation
 
 
 ## Back End Stories
-* [First Back End Story](#first-backend-story)
-* [Second Back End Story](#second-backend-story)
-* [Third Back End Story](#third-backend-story)
-* [Fourth Back End Story](#fourth-backend-story)
-* [Fifth Back End Story](#fifth-backend-story)
-* [Sixth Back End Story](#sixth-backend-story)
+* [First BackEnd Story](#first-backend-story)
+* [Second BackEnd Story](#second-backend-story)
+* [Third BackEnd Story](#third-backend-story)
+* [Fourth BackEnd Story](#fourth-backend-story)
+* [Fifth Back End Story](#fifth-back_end-story)
+* [Sixth Back End Story](#sixth-back end-story)
 * [Seventh BackEnd Story](#seventh-backend-story)
 
 ### First Back End Story
