@@ -14,7 +14,7 @@ Below is the code summary of my project, along with code snippets and navigation
 * [Fourth Back End Story](#fourth-backend-story)
 * [Fifth Back End Story](#fifth-backend-story)
 * [Sixth Back End Story](#sixth-backend-story)
-* [Seventh Back End Story](#seventh-backend-story)
+* [Seventh BackEnd Story](#seventh-backend-story)
 
 ### First Back End Story
 1. Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
@@ -34,7 +34,7 @@ Below is the code summary of my project, along with code snippets and navigation
 ### Sixth Back End Story
 6. Connect to your chosen API and get the JSON response, add in a template for displaying the information.
 
-### Seventh Back End Story
+### Seventh BackEnd Story
 7. Parse through the JSON file returned and display the information you want to display. Make additional queries to the API as necessary. Add a link from your app's home page.
   a. Optional Add-On:
       -Create a way to get any input information from the user and get the specific response for that input.
