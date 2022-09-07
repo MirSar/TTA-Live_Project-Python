@@ -12,8 +12,8 @@ Below is the code summary of my project, along with code snippets and navigation
 * [Second BackEnd Story](#second-backend-story)
 * [Third BackEnd Story](#third-backend-story)
 * [Fourth BackEnd Story](#fourth-backend-story)
-* [Fifth Back End Story](#fifth-back_end-story)
-* [Sixth Back End Story](#sixth-back end-story)
+* [Fifth BackEnd Story](#fifth-backend-story)
+* [Sixth BackEnd Story](#sixth-backend-story)
 * [Seventh BackEnd Story](#seventh-backend-story)
 
 ### First Back End Story
