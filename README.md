@@ -16,22 +16,22 @@ Below is the code summary of my project, along with code snippets and navigation
 * [Sixth BackEnd Story](#sixth-backend-story)
 * [Seventh BackEnd Story](#seventh-backend-story)
 
-### First Back End Story
+### First BackEnd Story
 1. Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
 
-### Second Back End Story
+### Second BackEnd Story
 2. Create a model for the collection item you will be tracking and add the ability to create a new item.
 
-### Third Back End Story
+### Third BackEnd Story
 3. Display information from the database in a page.
 
-### Fourth Back End Story
+### Fourth BackEnd Story
 4. Create a details page that will show the details of any single item from within the database, as selected by the user. Link this to the index page for each item.
 
-### Fifth Back End Story
+### Fifth BackEnd Story
 5. Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.
 
-### Sixth Back End Story
+### Sixth BackEnd Story
 6. Connect to your chosen API and get the JSON response, add in a template for displaying the information.
 
 ### Seventh BackEnd Story
