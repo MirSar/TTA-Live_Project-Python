@@ -8,13 +8,13 @@ Below is the code summary of my project, along with code snippets and navigation
 
 
 ## Back End Stories
-* [First Back End Story](#first-back end-story)
-* [Second Back End Story](#second-back end-story)
-* [Third Back End Story](#third-back end-story)
-* [Fourth Back End Story](#fourth-back end-story)
-* [Fifth Back End Story](#fifth-back end-story)
-* [Sixth Back End Story](#sixth-back end-story)
-* [Seventh Back End Story](#seventh-back end-story)
+* [First Back End Story](#first-backend-story)
+* [Second Back End Story](#second-backend-story)
+* [Third Back End Story](#third-backend-story)
+* [Fourth Back End Story](#fourth-backend-story)
+* [Fifth Back End Story](#fifth-backend-story)
+* [Sixth Back End Story](#sixth-backend-story)
+* [Seventh Back End Story](#seventh-backend-story)
 
 ### First Back End Story
 1. Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
@@ -43,8 +43,8 @@ Below is the code summary of my project, along with code snippets and navigation
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#tta-live_project-python)*
 
 ## Front End Stories
-* [First Front End Story](#first-front end-story)
-* [second Front End Story](#second-front end-story)
+* [First Front End Story](#first-frontend-story)
+* [second Front End Story](#second-frontend-story)
 
 ### First Front End Story
 This story was to ...initial and throughout the development process
