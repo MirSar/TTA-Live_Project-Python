@@ -43,13 +43,13 @@ Below is the code summary of my project, along with code snippets and navigation
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#tta-live_project-python)*
 
 ## Front End Stories
-* [First Front End Story](#first-frontend-story)
-* [second Front End Story](#second-frontend-story)
+* [First FrontEnd Story](#first-frontend-story)
+* [second FrontEnd Story](#second-frontend-story)
 
-### First Front End Story
+### First FrontEnd Story
 This story was to ...initial and throughout the development process
 
-### Second Front End Story
+### Second FrontEnd Story
 this story was to ...the final clean up of displays
 
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#tta-live_project-python)*
